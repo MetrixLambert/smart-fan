@@ -1,0 +1,8 @@
+\contentsline {subsection}{\numberline {0.1}摘要}{3}{subsection.0.1}% 
+\contentsline {section}{\numberline {1}引言——小米手环心率测量电路}{3}{section.1}% 
+\contentsline {section}{\numberline {2}实现方案}{4}{section.2}% 
+\contentsline {section}{\numberline {3}电路原理分析}{4}{section.3}% 
+\contentsline {section}{\numberline {4}整体电路仿真结果}{5}{section.4}% 
+\contentsline {section}{\numberline {5}电路搭建与实测结果}{6}{section.5}% 
+\contentsline {section}{\numberline {6}实验中电路出现的问题以及原因分析}{10}{section.6}% 
+\contentsline {section}{\numberline {7}项目的改进方向}{11}{section.7}% 
